@@ -1,1 +1,2 @@
-print("Rafif Azzam Hernawan\n606806093")
+nama = input("Nama: ")
+npm = input("NPM: ")
